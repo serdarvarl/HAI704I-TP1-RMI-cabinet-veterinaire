@@ -150,7 +150,3 @@ runtime RMI et se termine de lui-même, sans `Ctrl+C`.
 
 Exemple pour tester les alertes : démarrer le serveur, lancer deux clients, s'abonner (option 6) dans chacun,
 puis lancer `java -cp common/out:client/out vete.client.ClientRemplisseur` dans un troisième terminal.
-
-### 2.6 Vidéo de démonstration
-
-Voir `video/demonstration.mp4` (ou `liens.txt` si la vidéo est hébergée à l'extérieur).
